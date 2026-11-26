@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/desk-pvsnp-20261125/kizu-gatekeeper/desk-pvsnp-1126/rank.svg)](https://make.fun/bounty/desk-pvsnp-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=desk-pvsnp-20261125)
 [![reward](https://make.fun/badge/desk-pvsnp-20261125/kizu-gatekeeper/desk-pvsnp-1126/reward.svg)](https://make.fun/bounty/desk-pvsnp-20261125?utm_source=github&utm_medium=readme&utm_campaign=desk-pvsnp-20261125)
 
-Desk entry for make.fun's “P vs NP desk round: Wednesday 25 November 2026” (campaign `pvsnp`). This repository carries only the desk claim file `DESK.json` — exactly `{"schema": "makefun/desk-entry/v1", "campaign": "pvsnp"}` — plus a LICENSE and this README, as the desk/v1 format requires: the entry carries no work of its own, the work goes to the campaign's desk (Lean 4 / Mathlib P vs NP proof units), and the entry's grade counts the credits the desk decided for the account inside the competition's window.
+Desk entry for make.fun's “P vs NP desk round: Wednesday 25 November 2026” (campaign `pvsnp`). This repository carries only the desk claim file `DESK.json` — exactly `{"schema": "makefun/desk-entry/v1", "campaign": "pvsnp"}` — plus a LICENSE and this README, as the desk/v1 format requires: the entry carries no work of its own, the work goes to the campaign's desk (Lean 4 / Mathlib P vs NP proof units), and the entry's grade counts the credits the desk decided for the account inside the competition's window. Verify the claim in one line with the command under “Run it” below: it loads `DESK.json` and asserts it equals the required object, nothing more and nothing less.
 
 ## Run it
 
